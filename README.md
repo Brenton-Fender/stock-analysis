@@ -6,10 +6,18 @@
 Steve’s parents would like to invest some money in green stocks. The purpose of this project was to help Steve quickly compare the yearly return of several green stocks. With the help of this work, Steve will be better prepared to help his parents make informed investments.
 
 ## Results
+
 ![original_2017](https://user-images.githubusercontent.com/105960365/174219688-46054241-177c-4f24-9ade-8c93a849dce7.png)
+###Original 2017
+
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/105960365/174219694-bc3de406-992a-40c4-a785-dc05fcd9a269.png)
+###Refactored 2017
+
 ![original_2018](https://user-images.githubusercontent.com/105960365/174219696-fe6efd05-b1e0-44e2-bb66-4d0347c10c39.png)
+###Original 2018
+
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/105960365/174219701-7615b384-1222-4263-8f4b-92f030230b20.png)
+###Refactored 2018
 
 ### Stock Performance
 Looking at the analysis for both years, we can see that only two stocks provide positive returns for both 2017 and 2018.  Those two stocks are ENPH and RUN. ENPH can almost claim the highest return percentage for the combined period.
